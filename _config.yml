@@ -11,33 +11,33 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: H-Pipe
+description: A deep learning framework implemented in Halide #   &#x2192; Cascading bliss  serves as -> 
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+  name: Dylan Sun
+  email: dylansunlei@gmail.com 
+  url: http://dylansunlei.com
+first_published: 2016 # if migrating another site, the year of your first publish
+baseurl: "/H-Pipe-Site" # the subpath of your site, e.g. /blog
+url: "http://dylansunlei.com" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+  title:  Scheduling your computation has never been so easy
+  text: "The best balance among performance, parallelism, and locality"
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: Thanks for visiting 
+closing-para: try our product and we listen to every feedback
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/arkadianriver
-  facebook-official: https://facebook.com/gary.faircloth
+  twitter: https://twitter.com/DylanSunLei
+  github: https://github.com/wy4515/H-Pipe
+  linkedin-square: https://sg.linkedin.com/in/lei-sun-33949357
+  facebook-official: https://facebook.com/lei.sun.927
   google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   email: /contact/
   #flickr:
